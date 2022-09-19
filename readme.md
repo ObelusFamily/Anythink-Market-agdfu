@@ -10,6 +10,6 @@ When implementing a new feature or fixing a bug, please create a new pull reques
 
 ## First setup
 
-# Install Docker
-# Run `docker-compose up` from the repo folder
-# Yay!
+1. Install Docker
+2. Run `docker-compose up` from the repo folder
+3. Yay!
